@@ -1,2 +1,2 @@
-# clearWaterPoolSolution
-Website for a friend
+# clearwaterpool.github.io
+# clearwaterpool.github.io
